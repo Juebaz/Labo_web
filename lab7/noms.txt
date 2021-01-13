@@ -1,0 +1,7 @@
+Julie Bazerghi 
+Numéro d'identification (NI) : 111131775
+
+npm install
+node app.js
+
+À tester sur postman
